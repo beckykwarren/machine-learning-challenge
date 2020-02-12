@@ -2,7 +2,7 @@
 
 An exploration of machine learning models using the Ames Housing Dataset.
 
-Linear Regression model
-Decision Tree model
-Exploration of variables
+Linear Regression model  
+Decision Tree model  
+Exploration of variables  
 
